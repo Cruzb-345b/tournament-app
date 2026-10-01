@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:color="#0F172A" android:offset="0.0" />
+                <item android:color="#1E1B4B" android:offset="0.5" />
+                <item android:color="#312E81" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle tournament bracket geometric lines in background -->
+    <path
+        android:strokeWidth="1.2"
+        android:strokeColor="#20FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M16,28 L36,28 L36,44 L54,44" />
+    <path
+        android:strokeWidth="1.2"
+        android:strokeColor="#20FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M16,60 L36,60 L36,44" />
+    <path
+        android:strokeWidth="1.2"
+        android:strokeColor="#20FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M92,28 L72,28 L72,44 L54,44" />
+    <path
+        android:strokeWidth="1.2"
+        android:strokeColor="#20FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M92,60 L72,60 L72,44" />
+    <path
+        android:strokeWidth="1.2"
+        android:strokeColor="#20FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M16,80 L40,80 L40,92 L68,92 L68,80 L92,80" />
+</vector>

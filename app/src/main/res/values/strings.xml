@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">TorneoPro</string>
+    <string name="tagline">Sorteos y Cuadros Eliminatorios en Vivo</string>
+    
+    <!-- Navigation & Titles -->
+    <string name="nav_tournaments">Torneos</string>
+    <string name="nav_new_tournament">Nuevo Torneo</string>
+    <string name="nav_bracket">Cuadro</string>
+    <string name="nav_draw">Sorteo</string>
+    <string name="nav_stats">Estadísticas</string>
+    
+    <!-- Tournament creation -->
+    <string name="create_title">Crear Nuevo Torneo</string>
+    <string name="tournament_name_label">Nombre del Torneo</string>
+    <string name="tournament_name_hint">Ej: Copa Mundial, Torneo FIFA 24, Liga de Pádel</string>
+    <string name="participants_label">Participantes (Equipos / Jugadores)</string>
+    <string name="participants_hint">Escribe un nombre y presiona Agregar, o pega varios separados por salto de línea</string>
+    <string name="add_participant">Agregar</string>
+    <string name="load_demo_teams">Cargar Ejemplo (8 Equipos)</string>
+    <string name="load_demo_players">Cargar Ejemplo (16 Jugadores)</string>
+    <string name="draw_mode_random">Sorteo Aleatorio (Tómbola)</string>
+    <string name="draw_mode_seeded">Cabezas de Serie (Sembrados)</string>
+    <string name="draw_mode_manual">Orden Manual</string>
+    <string name="start_tournament">Generar Sorteo y Cuadro</string>
+    
+    <!-- Sorteo / Draw Screen -->
+    <string name="draw_title">Sorteo del Torneo</string>
+    <string name="draw_subtitle">Generando los cruces del cuadro eliminatorio</string>
+    <string name="spin_wheel">¡Girar Bombo!</string>
+    <string name="instant_draw">Sorteo Inmediato</string>
+    <string name="step_draw">Siguiente Bola</string>
+    <string name="draw_completed">¡Sorteo Completado!</string>
+    <string name="go_to_bracket">Ir al Cuadro (Bracket)</string>
+    
+    <!-- Bracket Screen -->
+    <string name="round_of_32">16avos de Final</string>
+    <string name="round_of_16">Octavos de Final</string>
+    <string name="quarterfinals">Cuartos de Final</string>
+    <string name="semifinals">Semifinales</string>
+    <string name="finals">Gran Final</string>
+    <string name="third_place">Tercer Lugar</string>
+    <string name="champion_label">¡CAMPEÓN!</string>
+    <string name="vs">VS</string>
+    <string name="tbd">Por Definir</string>
+    <string name="bye">PASE DIRECTO (BYE)</string>
+    
+    <!-- Match Dialog -->
+    <string name="edit_match_result">Registrar Resultado</string>
+    <string name="score_label">Marcador</string>
+    <string name="save_result">Guardar y Avanzar</string>
+    <string name="set_winner_quick">Ganador Directo</string>
+    <string name="reset_match">Reiniciar Partido</string>
+    <string name="penalties_label">Penaltis / Desempate</string>
+    
+    <!-- Details & Export -->
+    <string name="share_bracket">Compartir Resultados</string>
+    <string name="reset_tournament">Reiniciar Todo el Torneo</string>
+    <string name="delete_tournament">Eliminar Torneo</string>
+</resources>
